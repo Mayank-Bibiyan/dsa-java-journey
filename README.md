@@ -12,6 +12,7 @@ My Java &amp; DSA learning journey - covering Java fundamentals, DSA concepts, p
 | [0075-sort-colors](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0724-find-pivot-index](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -43,4 +44,8 @@ My Java &amp; DSA learning journey - covering Java fundamentals, DSA concepts, p
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
