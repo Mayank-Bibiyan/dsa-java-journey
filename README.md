@@ -60,5 +60,14 @@ My Java &amp; DSA learning journey - covering Java fundamentals, DSA concepts, p
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
