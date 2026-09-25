@@ -66,8 +66,18 @@ My Java &amp; DSA learning journey - covering Java fundamentals, DSA concepts, p
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
