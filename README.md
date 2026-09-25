@@ -38,6 +38,7 @@ My Java &amp; DSA learning journey - covering Java fundamentals, DSA concepts, p
 | [0016-3sum-closest](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
@@ -66,11 +67,13 @@ My Java &amp; DSA learning journey - covering Java fundamentals, DSA concepts, p
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
