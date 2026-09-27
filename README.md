@@ -15,6 +15,7 @@ My Java &amp; DSA learning journey - covering Java fundamentals, DSA concepts, p
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -63,12 +64,14 @@ My Java &amp; DSA learning journey - covering Java fundamentals, DSA concepts, p
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
