@@ -64,6 +64,7 @@ My Java &amp; DSA learning journey - covering Java fundamentals, DSA concepts, p
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ My Java &amp; DSA learning journey - covering Java fundamentals, DSA concepts, p
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -78,6 +80,7 @@ My Java &amp; DSA learning journey - covering Java fundamentals, DSA concepts, p
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0424-longest-repeating-character-replacement) |
 ## Queue
 |  |
 | ------- |
