@@ -17,6 +17,7 @@ My Java &amp; DSA learning journey - covering Java fundamentals, DSA concepts, p
 | [0724-find-pivot-index](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ My Java &amp; DSA learning journey - covering Java fundamentals, DSA concepts, p
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +57,7 @@ My Java &amp; DSA learning journey - covering Java fundamentals, DSA concepts, p
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
 |  |
 | ------- |
@@ -66,6 +69,7 @@ My Java &amp; DSA learning journey - covering Java fundamentals, DSA concepts, p
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mayank-Bibiyan/dsa-java-journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
